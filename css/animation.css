@@ -1,0 +1,11 @@
+.banner-model {
+	-webkit-animation-duration: .2s;
+	-moz-animation-duration: .2s;
+	animation-duration: .2s;
+}
+
+.title-01 {
+	animation-delay: .4s;
+	-webkit-animation-delay: .4s;
+	-moz-animation-delay: .4s;
+}
